@@ -75,5 +75,8 @@ Feel free to reach out if you have any questions or need further assistance.
 
 ---
 
+<img width="901" alt="hotel`" src="https://github.com/MuskanSharma18/HOTEL-BOOKING-CANCELLATION-DASHBOARD/assets/133594818/5a8b1949-70e6-4044-9a65-e4af496d88f0">
+<img width="486" alt="hotel2" src="https://github.com/MuskanSharma18/HOTEL-BOOKING-CANCELLATION-DASHBOARD/assets/133594818/79f2bc6a-c7c4-4789-8446-e019d6659c22">
+
 
 
